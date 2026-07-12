@@ -19,12 +19,12 @@ and execution outputs.
 - Global average pooling
 - Learning-rate reduction, early stopping, and checkpoint restoration
 - Final fine-tuning on all 50,000 training samples
+- Extended cosine-decay training with light label smoothing
 
 ## Results
 
 | Split | Accuracy |
 | --- | ---: |
-| Training | 83.73% |
-| Validation | 80.36% |
-| Test | 81.34% |
-
+| Training | 87.79% |
+| Validation | 85.28% |
+| Test | 84.58% |
