@@ -1,0 +1,11 @@
+.venv/
+.keras/
+.mplconfig/
+.ipython/
+.jupyter/
+data/
+best_tuned_model.keras
+Programming2_original.ipynb
+Programming2_probe.ipynb
+build_programming2.py
+.DS_Store
